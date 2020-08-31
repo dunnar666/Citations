@@ -22,7 +22,7 @@ Vi bruker programmerings-programmet R Studios i vårt arbeid @rcoreteam2020.
 
 Her er et eksempel på de to måtene å sette inn en sitering i et Markdown dokument: @aust2019 og [@wickham2019]. 
 
-html-dokumentet vil ikke vise disse eksemplene. Men fremgangsmåten er @"citekey" eller [@"citekey"].
+html-dokumentet vil ikke vise disse eksemplene. ***Men fremgangsmåten er @"citekey" eller [@"citekey"].***
 
 
 # Referanser
