@@ -9,11 +9,18 @@ bibliography: Citations.bib
 
 # Her kommer Hadley og gjengen; @wickham2014
 
+### Kapittel 1
+
 Vi prøver oss ut ved å teste forskjellige måter å sitere på. Vi bruker Markdown som foretrukket språk [@riederer].
 
 ### Kapittel 2
 
 Vi bruker programmerings-programmet R Studios i vårt arbeid @rcoreteam2020.
+
+### Kapittel 3
+
+Her er et eksempel på de to måtene å sette inn en sitering i et Markdown dokument: @aust2019 og [@wickham2019]. 
+
 
 ### Referanser
 
