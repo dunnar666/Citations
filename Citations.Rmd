@@ -11,5 +11,9 @@ bibliography: Citations.bib
 
 Vi prøver oss ut ved å teste forskjellige måter å sitere på. Vi bruker Markdown som foretrukket språk [@riederer].
 
+### Kapittel 2
+
+Vi bruker programmerings-programmet R Studios i vårt arbeid @rcoreteam2020.
+
 ### Referanser
 
