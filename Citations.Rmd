@@ -1,0 +1,16 @@
+---
+title: "Citations"
+output:
+  html_document:
+    df_print: paged
+bibliography: Citations.bib
+---
+
+@wickham2014
+
+# Her kommer Hadley; @wickham2014
+
+
+
+### Referanser
+
