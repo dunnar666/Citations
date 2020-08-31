@@ -11,7 +11,8 @@ bibliography: Citations.bib
 
 ### Kapittel 1
 
-Vi prøver oss ut ved å teste forskjellige måter å sitere på. Vi bruker Markdown som foretrukket språk [@riederer].
+Vi prøver oss ut ved å teste forskjellige måter å sitere på. 
+Vi bruker Markdown som foretrukket språk [@riederer].
 
 ### Kapittel 2
 
@@ -24,5 +25,5 @@ Her er et eksempel på de to måtene å sette inn en sitering i et Markdown doku
 html-dokumentet vil ikke vise disse eksemplene. Men fremgangsmåten er @"citekey" eller [@"citekey"].
 
 
-### Referanser
+# Referanser
 
