@@ -6,11 +6,10 @@ output:
 bibliography: Citations.bib
 ---
 
-@wickham2014
 
-# Her kommer Hadley; @wickham2014
+# Her kommer Hadley og gjengen; @wickham2014
 
-
+Vi prøver oss ut ved å teste forskjellige måter å sitere på. Vi bruker Markdown som foretrukket språk [@riederer].
 
 ### Referanser
 
