@@ -5,7 +5,7 @@ output:
 ---
 # Areal leilighet
 
-## Toatal areal som skal ha klikkvinyl
+## Totalt areal som skal ha klikkvinyl
 
 ```{r}
 bod <- (1.64*1.4) + (0.4*0.5)
