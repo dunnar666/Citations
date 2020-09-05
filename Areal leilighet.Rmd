@@ -1,0 +1,29 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Areal leilighet
+
+
+
+```{r}
+bod <- (1.64*1.4) + (0.4*0.5)
+soverom <- 3.75*3.15
+stue <- (3.75*1.75) + (0.75*0.25)
+gang <- (3.3*1.75) + (0.85*0.25)
+kjøkken <- 5.53*2.3
+vindfang <- (1.2*1.1) + (0.2*0.8)
+```
+
+
+```{r}
+sum(bod)
+sum(soverom)
+sum(stue)
+sum(gang)
+sum(kjøkken)
+sum(vindfang)
+sum(bod,gang,kjøkken,soverom,stue,vindfang)
+```
+
