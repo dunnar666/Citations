@@ -23,7 +23,7 @@ Tester bare ut branching i Git-systemet.
 1. Git
 1. More - shell
 1. Command *git checkout master*
-1. Command *git merge <branch-name>*
+1. Command *git merge "branch-name"*
 
 ### Kapittel 2
 
