@@ -1,9 +1,9 @@
 ---
 title: "Citations"
 output:
-  word_document: default
   html_document:
     df_print: paged
+  word_document: default
 bibliography: Citations.bib
 ---
 
@@ -16,6 +16,13 @@ Vi prøver oss ut ved å teste forskjellige måter å sitere på.
 Vi bruker Markdown som foretrukket språk [@riederer].
 
 Tester bare ut branching i Git-systemet. 
+
+*For å sveise sammen branchen med master-sporet:*
+
+1. Git
+1. More - shell
+1. Command *git checkout master*
+1. Command *git merge master*
 
 ### Kapittel 2
 
