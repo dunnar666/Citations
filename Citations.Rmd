@@ -1,6 +1,7 @@
 ---
 title: "Citations"
 output:
+  word_document: default
   html_document:
     df_print: paged
 bibliography: Citations.bib
@@ -14,9 +15,11 @@ bibliography: Citations.bib
 Vi prøver oss ut ved å teste forskjellige måter å sitere på. 
 Vi bruker Markdown som foretrukket språk [@riederer].
 
+Tester bare ut branching i Git-systemet. 
+
 ### Kapittel 2
 
-Vi bruker programmerings-programmet R Studios i vårt arbeid @rcoreteam2020.
+Vi bruker programmering-programmet R Studios i vårt arbeid @rcoreteam2020.
 
 ### Kapittel 3
 
