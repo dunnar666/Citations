@@ -41,7 +41,7 @@ html-dokumentet vil ikke vise disse eksemplene.
 
 Tester bare hvordan GitHub fungerer på PC **og** Android! @wickham2014
 
-sjekk...
+sjekk... web-test!
 
 # Referanser
 
